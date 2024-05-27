@@ -84,9 +84,6 @@
     "testdouble-qunit": "^2.1.1",
     "webpack": "^5.90.3"
   },
-  "engines": {
-    "node": "16.*"
-  },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
